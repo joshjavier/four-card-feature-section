@@ -1,0 +1,9 @@
+---
+layout: 'layouts/base.webc'
+title: 'Frontend Mentor | Four card feature section'
+description: 'A simple four card feature section built with 11ty + WebC by Josh Javier, a frontend developer from Manila.'
+---
+
+<main>
+  <h1>Hello world!</h1>
+</main>
