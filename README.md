@@ -29,11 +29,11 @@ Users should be able to:
 
 **Mobile**
 
-<img src="./screenshot-mobile.png" alt="Mobile preview" style="max-width: 200px">
+<img src="./screenshot-mobile.png" alt="Mobile preview" width="200">
 
 **Bonus: Tablet**
 
-<img src="./screenshot-tablet.png" alt="Tablet preview" style="max-width: 480px">
+<img src="./screenshot-tablet.png" alt="Tablet preview" width="480">
 
 ### Links
 
